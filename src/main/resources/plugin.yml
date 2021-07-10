@@ -1,0 +1,7 @@
+name: EventListeners
+version: ${project.version}
+main: me.glass_waves.eventlisteners.EventListeners
+api-version: 1.17
+authors: [ Glass_Waves ]
+description: Learning about event listeners.
+website: https://www.youtube.com/channel/UCdjJ3FK01WlxrZrNlWGZD1A
